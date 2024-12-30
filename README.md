@@ -16,11 +16,14 @@ This project implements a user-friendly calculator in Python to perform basic ar
 
 
 ### Key Activites
-Input Handling: Allowed users to input two numbers and select an operation.
-Validation: Implemented error handling for non-numeric input and division by zero.
-Operations: Supported addition, subtraction, multiplication, and division operations.
-User Interface: Designed a console-based interface to guide users through the process.
+- **User Input**: Accepts two numeric inputs and a choice of operation from the user.
+- **Arithmetic Operations**: Performs addition, subtraction, multiplication, and division.
+- **Error Handling**:
+  - Validates numeric input.
+  - Prevents division by zero.
+- **User Feedback**: Provides meaningful messages and results for each operation.
+
 
 ### Technologies used
-Programming Language: Python
-Libraries/Modules: Built-in Python libraries (e.g., input, print)
+- **Programming Language**: Python
+- **Development Environment**: Compatible with any Python environment (e.g., VS Code, PyCharm)
