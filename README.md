@@ -8,12 +8,12 @@
 
 ## Overview of the project
 
-### Project:
-Simple Calculator
-This project implements a user-friendly calculator in Python to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+### Project: Simple Calculator
 
 ### Objective
 The objective of the project is to create a simple, intuitive, and error-resilient calculator that takes user input, performs calculations, and provides accurate results.
+This project implements a user-friendly calculator in Python to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
 
 ### Key Activites
 Input Handling: Allowed users to input two numbers and select an operation.
