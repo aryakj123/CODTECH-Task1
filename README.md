@@ -1,9 +1,9 @@
-***Name:*** ARYA K J
-***Company:*** CODTECH IT SOLUTIONS
-***ID:*** CT08EQI
-***Domain:*** Python Programming
-***Duration:*** December 20,2024-January 20,2025
-***Mentor:*** SRAVANI GOUNI
+**Name:** ARYA K J
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT08EQI
+**Domain:** Python Programming
+**Duration:** December 20,2024-January 20,2025
+**Mentor:** SRAVANI GOUNI
 
 
 ## Overview of the project
